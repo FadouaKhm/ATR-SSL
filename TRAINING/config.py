@@ -2,7 +2,7 @@
 """
 Created on Sat May 16 13:51:34 2020
 
-@author: baili + Khmaissia
+@author: Khmaissia
 """
 
 import numpy as np
