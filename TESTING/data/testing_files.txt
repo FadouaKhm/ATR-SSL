@@ -1,0 +1,9 @@
+cegr/arf/cegr01923_0001,1
+cegr/arf/cegr01923_0002,1
+cegr/arf/cegr01923_0005,1
+cegr/arf/cegr01923_0006,1
+cegr/arf/cegr01923_0009,1
+cegr/arf/cegr01923_0011,1
+cegr/arf/cegr01923_0012,1
+cegr/arf/cegr01923_0013,1
+cegr/arf/cegr01923_0014,1

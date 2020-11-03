@@ -1,0 +1,13 @@
+cegr/arf/cegr02007_0002,10
+cegr/arf/cegr02007_0005,10
+cegr/arf/cegr02007_0006,10
+cegr/arf/cegr02007_0009,10
+cegr/arf/cegr02007_0011,10
+cegr/arf/cegr02007_0012,10
+cegr/arf/cegr02007_0013,10
+cegr/arf/cegr02007_0014,10
+cegr/arf/cegr02009_0001,10
+cegr/arf/cegr02009_0002,10
+cegr/arf/cegr02009_0005,10
+cegr/arf/cegr02009_0006,10
+cegr/arf/cegr02009_0009,10

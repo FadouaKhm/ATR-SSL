@@ -1,0 +1,6 @@
+Start time = 11/02/2020 , 16:09:23
+Training algorithm = MM, Include Non Target Class = True
+
+Training targets distribution: {"PICKUP": 360, "CLUTTER_y": 154, "SUV": 360, "BTR70": 360, "BRDM2": 360, "BMP2": 360, "T72": 360, "CLUTTER": 180, "2S3": 180, "D20": 180, "MTLB": 180}
+Validation targets distribution: {"SUV": 361, "CLUTTER+": 7104, "CLUTTER_y": 168, "BTR70": 390, "BRDM2": 358, "BMP2": 373, "T72": 177, "CLUTTER": 185, "2S3": 182, "MTLB": 168, "D20": 189, "PICKUP": 170}
+
